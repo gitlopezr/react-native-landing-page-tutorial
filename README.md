@@ -1,20 +1,50 @@
-# react-native-landing-page-tutorial
-How to Quickly Build and Add Landing Pages to a React Native App Using ButterCMS
+# Welcome to your Expo app 👋
 
-## Important Note
-This project was created as an example use case of ButterCMS in conjunction with a blog article, [How to Quickly Build and Add Landing Pages to a React Native App Using ButterCMS](https://buttercms.com/blog/react-native-landing-page-tutorial/), and will not be actively maintained.
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-If you're interested in exploring the best, most up-to-date way to integrate Butter into projects, you can check out the following resources:
+## Get started
 
-### Starter Projects
+1. Install dependencies
 
-The following turn-key starters are fully integrated with dynamic sample content from your ButterCMS account, including main menu, pages, blog posts, categories, and tags, all with a beautiful, custom theme with already-implemented search functionality. All of the included sample content is automatically created in your account dashboard when you sign up for a free trial of ButterCMS.
-- [Nuxt.js Starter](https://buttercms.com/starters/nuxtjs-starter-project/)
-- [Angular Starter](https://buttercms.com/starters/angular-starter-project/)
-- [React Starter](https://buttercms.com/starters/react-starter-project/)
-- [Vue.js Starter](https://buttercms.com/starters/vuejs-starter-project/)
-- Or see a list of all our [currently-maintained starters](https://buttercms.com/starters/)
+   ```bash
+   npm install
+   ```
 
-### Other Resources
-- Check out the [official ButterCMS Docs](https://buttercms.com/docs/)
-- Check out the [official ButterCMS API docs](https://buttercms.com/docs/api/)
+2. Start the app
+
+   ```bash
+    npx expo start
+   ```
+
+In the output, you'll find options to open the app in a
+
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+## Get a fresh project
+
+When you're ready, run:
+
+```bash
+npm run reset-project
+```
+
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+## Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
